@@ -1,2 +1,1 @@
-# PrepCourse-henry
-Este es un repositorio M2 git hub Curso Henry
+Esta es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora.
