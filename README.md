@@ -1,1 +1,1 @@
-Esta es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora.
+Esta es la segunda vez que clono y copio. sjrcaste
